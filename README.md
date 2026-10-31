@@ -51,7 +51,7 @@ STEGANOGRAPHY/
 ├── output.txt
 ├── stego.bmp
 └── .gitignore
-```
+
 
 ##  Working Principle
 
@@ -84,11 +84,11 @@ It is the rightmost bit of a binary number. By modifying this bit, we can hide i
 
 Example:
 
-```text
+
 Original Pixel :  11001010
 Secret Bit     :         1
 Modified Pixel :  11001011
-```
+
 
 Only the least significant bit changes, making the modification difficult to notice visually.
 
